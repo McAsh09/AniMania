@@ -2,4 +2,4 @@
 
 It is a platform uniting all the anime lovers so that they can have a blast together!
 
-<p><strong>Checking for the tags!</strong></p>
+<u>Watch Anime right now on :</u> <strong>animania.netlify.app</strong>
